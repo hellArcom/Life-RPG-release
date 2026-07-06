@@ -13,7 +13,6 @@ Développez vos compétences réelles, montez de niveau et construisez votre pro
 * 🏆 Titres et apparences évolutives
 * 🎯 Quêtes et objectifs personnalisés
 * 🎲 Système de paris sur vos objectifs
-* 👥 Guildes et fonctionnalités sociales
 * 🔥 Système de streaks
 * ⏳ Mode Focus
 * 🛡️ Badges et accomplissements
